@@ -1,0 +1,33 @@
+{
+  "start_date": "2026-08-09",
+  "end_date": "2026-08-15",
+  "people": [
+    {
+      "name": "אורי",
+      "room": "101",
+      "constraints": {
+        "dates": {
+          "2026-08-10": "unavailable",
+          "2026-08-13": 2
+        },
+        "weekdays": {
+          "שישי": 1
+        }
+      }
+    },
+    {
+      "name": "נועם",
+      "room": "101",
+      "constraints": {
+        "weekdays": {
+          "ראשון": 3
+        }
+      }
+    },
+    { "name": "דניאל", "room": "102", "constraints": {} },
+    { "name": "יואב", "room": "102", "constraints": {} },
+    { "name": "רועי", "room": "103", "constraints": {} },
+    { "name": "איתי", "room": "103", "constraints": {} },
+    { "name": "עומר", "room": "104", "constraints": {} }
+  ]
+}
